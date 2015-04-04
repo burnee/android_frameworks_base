@@ -3497,6 +3497,12 @@ public final class Settings {
          * @hide
          */
         public static final String LIVE_DISPLAY_HINTED = "live_display_hinted";
+        
+        
+	    /** Network speed indicator
+         * @hide
+         */
+        public static final String STATUS_BAR_TRAFFIC = "status_bar_traffic";
 
         /**
          * Settings to backup. This is here so that it's in the same place as the settings
